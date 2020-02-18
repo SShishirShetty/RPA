@@ -499,7 +499,7 @@
                         <Transition DisplayName="System Error" sap:VirtualizedContainerService.HintSize="429.6,802.4" sap2010:WorkflowViewState.IdRef="Transition_3">
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                              <av:PointCollection x:Key="ConnectorLocation">401.5,96.5 401.5,126.5 137.8,126.5 137.8,188.5</av:PointCollection>
+                              <av:PointCollection x:Key="ConnectorLocation">401.5,96.5 401.5,162.04 137.8,162.04 137.8,188.5</av:PointCollection>
                               <x:Int32 x:Key="SrcConnectionPointIndex">39</x:Int32>
                               <x:Int32 x:Key="DestConnectionPointIndex">34</x:Int32>
                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
