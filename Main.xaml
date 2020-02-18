@@ -463,14 +463,14 @@
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <x:Int32 x:Key="SrcConnectionPointIndex">39</x:Int32>
                               <x:Int32 x:Key="DestConnectionPointIndex">38</x:Int32>
-                              <av:PointCollection x:Key="ConnectorLocation">401.5,96.5 401.5,126.5 244.5,126.5 244.5,69.5 70,69.5 70,99.5</av:PointCollection>
+                              <av:PointCollection x:Key="ConnectorLocation">401.5,96.5 390,96.5 390,99.5</av:PointCollection>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
                           <Transition.To>
                             <State x:Name="__ReferenceID1" DisplayName="State" sap:VirtualizedContainerService.HintSize="134,61" sap2010:WorkflowViewState.IdRef="State_5">
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                  <av:Point x:Key="ShapeLocation">3,99.5</av:Point>
+                                  <av:Point x:Key="ShapeLocation">323,99.5</av:Point>
                                   <av:Size x:Key="ShapeSize">134,61</av:Size>
                                   <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                 </scg:Dictionary>
@@ -481,7 +481,7 @@
                                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                       <x:Int32 x:Key="SrcConnectionPointIndex">39</x:Int32>
                                       <x:Int32 x:Key="DestConnectionPointIndex">38</x:Int32>
-                                      <av:PointCollection x:Key="ConnectorLocation">70,160.5 70,301.5 244.5,301.5 244.5,151.5 400,151.5 400,181.5</av:PointCollection>
+                                      <av:PointCollection x:Key="ConnectorLocation">390,160.5 390,181.5 400,181.5</av:PointCollection>
                                     </scg:Dictionary>
                                   </sap:WorkflowViewStateService.ViewState>
                                   <Transition.To>
@@ -573,7 +573,7 @@
                         <Transition DisplayName="T2" sap2010:WorkflowViewState.IdRef="Transition_10">
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                              <av:PointCollection x:Key="ConnectorLocation">401.5,96.5 401.5,126.5 244.5,126.5 244.5,0 29.8,0 29.8,99.5</av:PointCollection>
+                              <av:PointCollection x:Key="ConnectorLocation">401.5,96.5 349.8,96.5 349.8,99.5</av:PointCollection>
                               <x:Int32 x:Key="SrcConnectionPointIndex">39</x:Int32>
                               <x:Int32 x:Key="DestConnectionPointIndex">14</x:Int32>
                             </scg:Dictionary>
