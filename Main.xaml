@@ -508,7 +508,7 @@
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
                           <Transition.To>
-                            <State x:Name="__ReferenceID2" sap2010:Annotation.AnnotationText="Procsygcsygccess stops here" DisplayName="End Process" sap:VirtualizedContainerService.HintSize="144,104" sap2010:WorkflowViewState.IdRef="State_1" IsFinal="True">
+                            <State x:Name="__ReferenceID2" sap2010:Annotation.AnnotationText="Procsygcsygccess stops heADre" DisplayName="DEnd Process" sap:VirtualizedContainerService.HintSize="144,104" sap2010:WorkflowViewState.IdRef="State_1" IsFinal="True">
                               <State.Entry>
                                 <TryCatch sap:VirtualizedContainerService.HintSize="418,443" sap2010:WorkflowViewState.IdRef="TryCatch_4">
                                   <TryCatch.Try>
